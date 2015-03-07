@@ -6,7 +6,7 @@ Database Installer
 
 ## DESCRIPTION 
 
-**database-installer** performs installation of MySQL databases by php scripts.
+**Database-Installer** performs installation of MySQL databases by php scripts.
 Features:
 
   - Install databases
@@ -19,7 +19,7 @@ Features:
 
 ### Default configuration
 
-**database-installer** looks for a default file structure in the given order:
+**Database-Installer** looks for a default file structure in the given order:
 
   - 'database-installer/index.php'
   - 'database-installer/jquery-2.1.3.min.js'
@@ -58,6 +58,4 @@ Step 4::
 
 == AUTHORS ==
 
-**Database Installer** is written by Nishant Kumar.
-
-
+**Database-Installer** is written by Nishant Kumar.
