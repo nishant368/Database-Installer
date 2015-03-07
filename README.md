@@ -1,12 +1,12 @@
 # Database Installer
 
-== NAME ==
+## NAME 
 
 Database Installer
 
-== DESCRIPTION ==
+## DESCRIPTION 
 
-+database-installer+ performs installation of MySQL databases by php scripts.
+**database-installer** performs installation of MySQL databases by php scripts.
 Features:
 
   - Install databases
@@ -15,18 +15,18 @@ Features:
   - Re-install mysql databse
   - more...
 
-== CONFIGURATION FILE ==
+## CONFIGURATION FILE
 
-=== Default configuration ===
+### Default configuration
 
-+database-installer+ looks for a default file structure in the given order:
+**database-installer** looks for a default file structure in the given order:
 
   - 'database-installer/index.php'
   - 'database-installer/jquery-2.1.3.min.js'
   - 'database-installer/mysql.sql'
 
 
-=== How to use?  
+## How to use?  
 
 Step 1::
 
@@ -48,21 +48,16 @@ Step 4::
   And if the database will already consists tables then it will ask for delete the existing tables and after that new database(mysql.sql) can be install. 
 
 
-== HISTORY ==
+## HISTORY
 
-=== Version 1.0 ===
+### Version 1.0
 
 2015-03-07::
 
   First release.
 
-== BUGS ==
-
-No time to include bugs, command actions might seldom lead astray
-user's assumption.
-
 == AUTHORS ==
 
-+Database Installer+ is written by Nishant Kumar.
+**Database Installer** is written by Nishant Kumar.
 
 
