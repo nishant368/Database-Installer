@@ -10,9 +10,9 @@ Database Installer
 Features:
 
   - Install databases
-  - Check existance of tables in mysql database
+  - Check existence of tables in mysql database
   - Delete existing mysql database
-  - Re-install mysql databse
+  - Re-install mysql database
   - more...
 
 ## CONFIGURATION FILE
